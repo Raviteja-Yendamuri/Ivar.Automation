@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ivar.Automation.Tests", "Ivar.Automation.Tests\Ivar.Automation.Tests.csproj", "{8F1F2EFB-8F6E-4D7D-B447-7B5E1FFD9799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F1F2EFB-8F6E-4D7D-B447-7B5E1FFD9799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1F2EFB-8F6E-4D7D-B447-7B5E1FFD9799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1F2EFB-8F6E-4D7D-B447-7B5E1FFD9799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1F2EFB-8F6E-4D7D-B447-7B5E1FFD9799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33DBE4CF-70F5-4105-BFE2-4A0049D94DC6}
+	EndGlobalSection
+EndGlobal
