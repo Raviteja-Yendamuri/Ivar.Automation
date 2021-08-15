@@ -503,14 +503,6 @@
     <Compile Include="steps\ContactUsSteps.cs" />
     <Compile Include="steps\PersonalInfoSteps.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="1_Selenium.Grid\BrowserHooks\Hooks2.cs" />
-    <Compile Include="1_Selenium.Grid\BrowserInstances\GridChrome1.cs" />
-    <Compile Include="1_Selenium.Grid\BrowserInstances\GridChrome2.cs" />
-    <Compile Include="1_Selenium.Grid\TestBase\Base2.cs" />
-    <Compile Include="2_Selenium.Parallel\BrowserHooks\Hooks1.cs" />
-    <Compile Include="2_Selenium.Parallel\BrowserInstances\Chrome1.cs" />
-    <Compile Include="2_Selenium.Parallel\BrowserInstances\Chrome2.cs" />
-    <Compile Include="2_Selenium.Parallel\TestBase\Base1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
